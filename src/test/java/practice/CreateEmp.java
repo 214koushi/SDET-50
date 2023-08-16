@@ -7,7 +7,7 @@ public class CreateEmp {
 	
 	@Test(groups = "smoke")
 	public void AddEmpl() {
-		System.out.println("Added new Employee");
+		System.out.println(" newly Added Employee");
 	}
 
 	@Test(groups = "regression")
